@@ -30,27 +30,27 @@ Honors & Awards
 Experience
 ------
 ### <img src="/images/sino-security.png" width="70" alt="Logo">  **Sino-Security Index Service**  
-_Data Analysis Intern, 2025.03 - 2025.07_
+_Data Analysis Intern, 2025.03 - 2025.07_  
 Stock indices research, financial data analytics, and sustainability & climate research.
 
 ### <img src="/images/bova-ESG白.jpg" width="70" alt="Logo">  **Bova ESG** 
-_Consultant Intern, 2024.09 - 2025.01_
+_Consultant Intern, 2024.09 - 2025.01_  
 Advised on corporate ESG strategy and disclosure, managed corporates' ESG rating performance.
 
 ### <img src="/images/undp-logo.png" width="70" alt="Logo">  **United Nations Development Programme**  
-_Programme Associate, 2023.12 - 2024.06_
+_Programme Associate, 2023.12 - 2024.06_  
 6-month UN Volunteer in South Africa, supporting SMEs development, energy transition projects, and youth empowerment programs.
 
 ### <img src="/images/zhangfangxingLOGO.png" width="80" alt="Logo">  **International Green Finance Institute**  
-_Research Assistant, 2023.9 - 2023.11_
+_Research Assistant, 2023.9 - 2023.11_  
 Researched and developed green finance and climate finance policies for Chinese medium and small-sized banks.
 
 ### <img src="/images/bdo.png" width="70" alt="Logo">  **BDO**  
-_Audit Intern, 2022.07 - 2022.09_
+_Audit Intern, 2022.07 - 2022.09_  
 Participated in an IPO audit and mid-year financial report audit projects.
 
 ### <img src="/images/jingye.jpg" width="60" alt="Logo">  **Jingye CPAs**  
-_Audit Intern, 2021.07 - 2021.09_
+_Audit Intern, 2021.07 - 2021.09_  
 Reviewed and audited revenue and net income of a company under legal dispute.
 
 
