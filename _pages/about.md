@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a graduate student studying Accounting Analytics at [Washington University at St. Louis](https://olin.washu.edu/). Having a background in auditing, ESG consulting, and climate finance research, my career goal is to help organizations successfully manage financial risks and opportunities via navigating sustainable and digital transition.
+I am currently a graduate student studying Accounting Analytics at [Washington University in St. Louis](https://olin.washu.edu/). Having a background in auditing, ESG consulting, and climate finance research, my career goal is to help organizations successfully manage financial risks and opportunities via navigating sustainable and digital transition.
 Passionate about turning data into action, I am proficient in Python, SQL, and Excel. I enjoy tackling complex challenges by combining quantitative rigor with sustainability insights, with the aim of driving meaningful impact in finance, policy, and climate action.
 
 
