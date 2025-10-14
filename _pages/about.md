@@ -68,5 +68,5 @@ Contact
 Email: wyuchen@wustl.edu   
 LinkedIn: [Yuchen Wu](https://www.linkedin.com/in/yuchen-wu-washu/)  
 Wechat:   
-<img src="/images/wechat.jpg" width="60" alt="wechat QR code">
+<img src="/images/wechat.jpg" width="150" alt="wechat QR code">
 
