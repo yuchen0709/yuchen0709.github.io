@@ -21,8 +21,8 @@ Bachelor of Economics in Financial Engineering
 
 Honors & Awards
 ------
-Outstanding Graduate Award, June 2024
-Provincial Champion of The World Mandarin Debating World Cup, Dec 2022
++Outstanding Graduate Award, June 2024
++Provincial Champion of The World Mandarin Debating World Cup, Dec 2022
 
 Experience
 ------
