@@ -53,12 +53,15 @@ Reviewed and audited revenue and net income of a company under legal dispute.
 
 Projects
 ------
-[1] Sustainability Specialist all in one AI Agent(developing) 
+[1] Sustainability Specialist all in one AI Agent(developing)  
+
 
 
 Articles|Events
+------
 [1] Coordinated with mutiple parters and successfully held _Global Entrepreneurship Congress (GEC) Africa 2024_.
-[GEC+Africa 2024 Report](https://www.22onsloane.co/gecafrica-2024-report/)
+[GEC+Africa 2024 Report](https://www.22onsloane.co/gecafrica-2024-report/)  
+
 
 
 
