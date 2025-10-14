@@ -12,7 +12,7 @@ Passionate about turning data into action, I am proficient in Python, SQL, and E
 
 Experience
 ------
-### ![Logo](sino-security.png) **Sino-Security Index Service | Data Analysis Intern**  
+### ![Logo](images/sino-security.png) **Sino-Security Index Service | Data Analysis Intern**  
 Stock indices research, financial data analytics, and sustainability & climate research.
 
 ### **Bova ESG | Consultant Intern**  
