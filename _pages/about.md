@@ -47,7 +47,7 @@ Researched and developed green finance and climate finance policies for Chinese 
 
 ### <img src="/images/bdo.png" width="70" alt="Logo">  **BDO**  
 _Audit Intern, 2022.07 - 2022.09_  
-Participated in an IPO audit and mid-year financial report audit projects.
+Participated in an IPO audit and a mid-year financial report audit projects.
 
 ### <img src="/images/jingye.jpg" width="60" alt="Logo">  **Jingye CPAs**  
 _Audit Intern, 2021.07 - 2021.09_  
