@@ -15,7 +15,7 @@ Education
 Master of Science in Business Analytics - Accounting Analytics Track
 +Degree qualifies for a STEM designation; eligible for 36 months of OPT (12 months OPT+ 24 months of extension) 
 +Relevant Courses: Python and Data Science, Big Data and Cloud Computing, Financial Accounting III, Machine Learning Tools for Business Predictions 
-### <img src="/images/WashU-RGB.jpg" width="70" alt="Logo"> **Nanjing Audit University**
+### <img src="/images/NAU.png" width="80" alt="Logo"> **Nanjing Audit University**
 Bachelor of Economics in Financial Engineering
 +Relevant Courses: Microeconomics, Econometrics, Fundamentals of Accounting, Auditing, Derivatives, Corporate Finance
 
