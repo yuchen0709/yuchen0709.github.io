@@ -21,7 +21,7 @@ Advised on corporate ESG strategy and disclosure, managed corporates' ESG rating
 ### <img src="/images/undp-logo.png" width="70" alt="Logo">**United Nations Development Programme | Programme Associate**  
 6-month UN Volunteer in South Africa, supporting SMEs development, energy transition projects, and youth empowerment programs.
 
-### <img src="/images/zhangfangxingLOGO.png" width="70" alt="Logo"> **International Green Finance Institute | Research Assistant**  
+### <img src="/images/zhangfangxingLOGO.png" width="80" alt="Logo"> **International Green Finance Institute | Research Assistant**  
 Researched and developed green finance and climate finance policies for Chinese medium and small-sized banks.
 
 ### <img src="/images/bdo.png" width="70" alt="Logo"> **BDO | Audit Intern**  
