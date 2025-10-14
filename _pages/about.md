@@ -12,22 +12,22 @@ Passionate about turning data into action, I am proficient in Python, SQL, and E
 
 Experience
 ------
-### <img src="/images/sino-security.png" width="80" alt="Sino Security Logo"> **Sino-Security Index Service | Data Analysis Intern**  
+### <img src="/images/sino-security.png" width="70" alt="Logo"> **Sino-Security Index Service | Data Analysis Intern**  
 Stock indices research, financial data analytics, and sustainability & climate research.
 
-### **Bova ESG | Consultant Intern**  
+### <img src="/images/bova-ESG白.jpg" width="70" alt="Logo">**Bova ESG | Consultant Intern**  
 Advised on corporate ESG strategy and disclosure, managed corporates' ESG rating performance.
 
-### **United Nations Development Programme | Programme Associate**  
+### <img src="/images/undp-logo.png" width="70" alt="Logo">**United Nations Development Programme | Programme Associate**  
 6-month UN Volunteer in South Africa, supporting SMEs development, energy transition projects, and youth empowerment programs.
 
-### **International Green Finance Institute | Research Assistant**  
+### <img src="/images/zhangfangxingLOGO.png" width="70" alt="Logo"> **International Green Finance Institute | Research Assistant**  
 Researched and developed green finance and climate finance policies for Chinese medium and small-sized banks.
 
-### **BDO | Audit Intern**  
+### <img src="/images/bdo.png" width="70" alt="Logo"> **BDO | Audit Intern**  
 Participated in an IPO audit and mid-year financial report audit projects.
 
-### **Jingye CPAs | Audit Intern**  
+### <img src="/images/jingye.jpg" width="60" alt="Logo"> **Jingye CPAs | Audit Intern**  
 Reviewed and audited revenue and net income of a company under legal dispute.
 
 ---
