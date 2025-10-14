@@ -19,6 +19,10 @@ Master of Science in Business Analytics - Accounting Analytics Track
 Bachelor of Economics in Financial Engineering
 +Relevant Courses: Microeconomics, Econometrics, Fundamentals of Accounting, Auditing, Derivatives, Corporate Finance
 
+Honors & Awards
+------
+Outstanding Graduate Award, June 2024
+Provincial Champion of The World Mandarin Debating World Cup, Dec 2022
 
 Experience
 ------
