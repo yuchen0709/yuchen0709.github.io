@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /talks/about_zh.md
 title: "关于我"
 author_profile: true
 read_time: true
