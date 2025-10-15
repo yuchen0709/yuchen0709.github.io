@@ -12,7 +12,7 @@ main:
   #  url: /publications/
 
   - title: "Chinese | 中文页面"
-    url: /talks/    
+    url: /_pages/about_zh.md/
 
   #- title: "Teaching"
   #  url: /teaching/    
