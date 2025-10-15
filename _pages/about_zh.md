@@ -1,5 +1,5 @@
 ---
-permalink: https://yuchen0709.github.io/_pages/about_zh.md
+permalink: https://yuchen0709.github.io/about-zh/
 title: "关于我"
 author_profile: true
 read_time: true
