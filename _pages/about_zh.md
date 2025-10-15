@@ -1,7 +1,6 @@
 ---
 permalink: /talks/about_zh.md
 title: "关于我"
-collection: talks
 author_profile: true
 read_time: true
 ---
