@@ -1,5 +1,5 @@
 ---
-permalink: /talks/about_zh.md
+permalink: https://yuchen0709.github.io/_pages/about_zh.md
 title: "关于我"
 author_profile: true
 read_time: true
