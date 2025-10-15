@@ -22,10 +22,6 @@ Master of Science in Business Analytics - Accounting Analytics Track
 Bachelor of Economics in Financial Engineering  
 + Relevant Courses: Microeconomics, Econometrics, Fundamentals of Accounting, Auditing, Derivatives, Corporate Finance
 
-Honors & Awards
-------
-+ Outstanding Graduate Award, June 2024
-+ Provincial Champion of The World Mandarin Debating World Cup, Dec 2022
 
 Experience
 ------
@@ -54,17 +50,25 @@ _Audit Intern, 2021.07 - 2021.09_
 Reviewed and audited revenue and net income of a company under legal dispute.
 
 
+Events & Articles
+------
+[1] Coordinated with mutiple parters and successfully held _Global Entrepreneurship Congress (GEC) Africa 2024_.
+[GEC+Africa 2024 Report](https://www.22onsloane.co/gecafrica-2024-report/).(April 2024)    
+
+[2] Organized some of the roadshows and pitch meetings of [Meet the Toshikas](https://www.undp.org/africa/meet-toshikas) projects in Africa, bringing international venture capital to facilitate African business development.(May 2024)  
+
+[3] Helped organized the [ISSB - Beijing Sustainability Conference 2024](https://www.ifrs.org/news-and-events/events/2024/november/highlights-from-beijing-international-sustainability-conference/). (Otc 2024)   
+
+[4] Organized [the World Madarine Debating Championship 2022(in Chinese)](https://mp.weixin.qq.com/s/VDLuD7pghgy1t7WtCf3NAw) as PR manager, and made it one of the most popular and socially discussed Chinese debate competitions. 
+
 Projects
 ------
 [1] Sustainability Specialist all in one AI Agent(developing)  
 
-
-
-Articles|Events
+Honors & Awards
 ------
-[1] Coordinated with mutiple parters and successfully held _Global Entrepreneurship Congress (GEC) Africa 2024_.
-[GEC+Africa 2024 Report](https://www.22onsloane.co/gecafrica-2024-report/)  
-
++ Outstanding Graduate Award, June 2024
++ Provincial Champion of The World Mandarin Debating World Cup, Dec 2022
 
 Contact
 ------
