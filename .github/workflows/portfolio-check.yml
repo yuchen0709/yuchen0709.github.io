@@ -1,0 +1,26 @@
+name: Portfolio preview checks
+on:
+  pull_request:
+    paths: ['portfolio/**', '.github/workflows/portfolio-check.yml']
+  push:
+    branches: ['redesign/portfolio-digital-lab']
+    paths: ['portfolio/**', '.github/workflows/portfolio-check.yml']
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: portfolio
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node build.mjs
+      - run: node verify.mjs
+      - uses: actions/upload-artifact@v4
+        with:
+          name: portfolio-preview
+          path: portfolio/dist

@@ -1,0 +1,441 @@
+{
+  "experiences": [
+    {
+      "id": "deloitte",
+      "name": {
+        "en": "Deloitte",
+        "zh": "德勤"
+      },
+      "date": "2026.05 — 2026.08",
+      "role": {
+        "en": "AI Data & Model R&D Intern",
+        "zh": "AI 数据与模型研发实习生"
+      },
+      "location": {
+        "en": "Shanghai, China",
+        "zh": "中国 · 上海"
+      },
+      "text": {
+        "en": "Connected financial documents, reliable data and language models. Supported RAG indicator extraction, data quality management and evaluation for financial AI products.",
+        "zh": "连接金融文档、可靠数据与语言模型。参与金融 AI 产品研发，支持 RAG 指标抽取、风险数据生产与质量管理、模型评估与提示词优化。"
+      },
+      "tags": [
+        "Python",
+        "SQL",
+        "RAG"
+      ],
+      "steps": [
+        {
+          "en": "Helped translate requirements for annual and sustainability reports into document parsing and indicator extraction workflows.",
+          "zh": "围绕年报与可持续发展报告的解析需求，协助设计指标抽取流程。"
+        },
+        {
+          "en": "Cleaned, processed and validated multi-source financial data for a bank risk early-warning model.",
+          "zh": "清洗、加工并验证多源金融数据，为银行风险预警模型建设指标数据。"
+        },
+        {
+          "en": "Participated in annotation, prompt iteration and model evaluation to improve retrieval and structured outputs.",
+          "zh": "参与数据标注、提示词迭代与模型评估，改进检索与结构化输出。"
+        }
+      ]
+    },
+    {
+      "id": "sino",
+      "name": {
+        "en": "Sino-Securities Index",
+        "zh": "华证指数"
+      },
+      "date": "2025.03 — 2025.07",
+      "role": {
+        "en": "Data Analysis Intern",
+        "zh": "数据分析实习生"
+      },
+      "location": {
+        "en": "Shanghai, China",
+        "zh": "中国 · 上海"
+      },
+      "text": {
+        "en": "Built automated data workflows covering 9,000+ listed companies, integrated A-share and Hong Kong market data, and supported factor analysis and index methodology research.",
+        "zh": "搭建覆盖 9,000+ 家上市公司的自动化数据流程，整合 A 股与港股多源数据，参与因子分析与策略指数规则研究。"
+      },
+      "tags": [
+        "Python",
+        "SQL",
+        "Factor analysis"
+      ],
+      "steps": [
+        {
+          "en": "Cleaned and integrated multi-source market and non-financial data with Python and SQL; implemented three data improvement proposals.",
+          "zh": "使用 Python 与 SQL 清洗整合市场及非财务数据，提出并落地三项数据优化方案。"
+        },
+        {
+          "en": "Automated batch data updates and communication workflows covering more than 9,000 listed companies.",
+          "zh": "搭建自动化批量更新与沟通流程，覆盖 9,000+ 家上市公司。"
+        },
+        {
+          "en": "Supported index rule optimization and multidimensional factor analysis; contributed to an index with approximately 1.5% excess return, as reported in my experience record.",
+          "zh": "参与指数规则优化与多维因子分析，支持某指数实现约 1.5% 超额收益（据个人经历记录）。"
+        }
+      ]
+    },
+    {
+      "id": "bova",
+      "name": {
+        "en": "Bova Technology",
+        "zh": "勃诺科技"
+      },
+      "date": "2024.09 — 2025.01",
+      "role": {
+        "en": "Strategy Analysis Intern",
+        "zh": "策略分析实习生"
+      },
+      "location": {
+        "en": "Beijing, China",
+        "zh": "中国 · 北京"
+      },
+      "text": {
+        "en": "Translated rating methodologies and disclosure standards into practical indicator systems, corporate recommendations and AI-assisted monitoring workflows.",
+        "zh": "将评级方法论与披露标准转化为可执行的指标体系、企业改进建议与 AI 辅助监测流程。"
+      },
+      "tags": [
+        "Research",
+        "Automation"
+      ],
+      "steps": []
+    },
+    {
+      "id": "undp",
+      "name": {
+        "en": "UNDP",
+        "zh": "联合国开发计划署"
+      },
+      "date": "2023.12 — 2024.06",
+      "role": {
+        "en": "Project Coordinator · Government-sponsored placement",
+        "zh": "项目协调员 · 公派"
+      },
+      "location": {
+        "en": "Pretoria, South Africa",
+        "zh": "南非 · 比勒陀利亚"
+      },
+      "text": {
+        "en": "Combined partner due diligence, budget monitoring and cross-sector coordination to support local development projects.",
+        "zh": "结合合作方尽职调查、预算监控与跨部门协调，支持当地发展项目。"
+      },
+      "tags": [
+        "Due diligence",
+        "Risk",
+        "Coordination"
+      ],
+      "steps": [
+        {
+          "en": "Conducted due diligence on four local partner organizations, covering AML, CTF, financial health and sustainability risks.",
+          "zh": "对四家本地合作机构开展尽职调查，覆盖反洗钱、反恐融资、财务健康与可持续发展风险。"
+        },
+        {
+          "en": "Supported three projects; identified a roughly 20% cost overrun through budget and resource analysis and helped implement procurement improvements.",
+          "zh": "参与三个驻地项目，通过预算与资源分析识别约 20% 成本超支，并推动采购优化等措施。"
+        },
+        {
+          "en": "Coordinated clean-energy and small-business projects using industry research, financial estimates and feasibility assessment.",
+          "zh": "通过行业研究、财务测算与可行性评估，协调清洁能源及中小微企业项目。"
+        }
+      ]
+    },
+    {
+      "id": "igfi",
+      "name": {
+        "en": "International Institute of Green Finance, CUFE",
+        "zh": "中央财经大学国际绿色金融研究院"
+      },
+      "date": "2023.10 — 2023.12",
+      "role": {
+        "en": "Research Assistant",
+        "zh": "助理研究员"
+      },
+      "location": {
+        "en": "Hangzhou, China",
+        "zh": "中国 · 杭州"
+      },
+      "text": {
+        "en": "Researched green lending products, collateral innovation and associated risks at small and medium-sized banks.",
+        "zh": "研究中小银行绿色贷款产品、创新抵押方式及其风险，协助构建评价体系。"
+      },
+      "tags": [
+        "Banking",
+        "Research"
+      ],
+      "steps": []
+    },
+    {
+      "id": "bdo",
+      "name": {
+        "en": "BDO China",
+        "zh": "立信会计师事务所"
+      },
+      "date": "2022.07 — 2022.09",
+      "role": {
+        "en": "Audit Intern",
+        "zh": "审计实习生"
+      },
+      "location": {
+        "en": "Shanghai, China",
+        "zh": "中国 · 上海"
+      },
+      "text": {
+        "en": "Supported two interim audits, controlled 300+ bank confirmations, and assisted with inventory aging, impairment analysis and stocktakes.",
+        "zh": "参与两个中报审计项目及 300+ 份银行函证控制，支持存货库龄、减值分析与监盘。"
+      },
+      "tags": [
+        "Audit",
+        "Excel"
+      ],
+      "steps": []
+    },
+    {
+      "id": "jingye",
+      "name": {
+        "en": "Zhejiang Jingye CPAs",
+        "zh": "浙江敬业会计师事务所"
+      },
+      "date": "2021.07 — 2021.09",
+      "role": {
+        "en": "Audit Intern",
+        "zh": "审计实习生"
+      },
+      "location": {
+        "en": "Hangzhou, China",
+        "zh": "中国 · 杭州"
+      },
+      "text": {
+        "en": "Reviewed related-party transactions, interest calculations and financial statement records spanning nearly ten years.",
+        "zh": "核查关联方往来、利息测算与近十年财务记录，参与供应商差异分析及报表准确性核对。"
+      },
+      "tags": [
+        "Accounting",
+        "Audit"
+      ],
+      "steps": []
+    }
+  ],
+  "projects": [
+    {
+      "id": "deloitte",
+      "kind": "experience",
+      "category": "AI / FINANCIAL DATA",
+      "title": {
+        "en": "From documents to decision-ready data",
+        "zh": "从金融文档到可用数据"
+      },
+      "summary": {
+        "en": "Connected financial documents, reliable data and language models. Supported RAG indicator extraction, data quality management and evaluation for financial AI products.",
+        "zh": "连接金融文档、可靠数据与语言模型。参与金融 AI 产品研发，支持 RAG 指标抽取、风险数据生产与质量管理、模型评估与提示词优化。"
+      },
+      "tags": [
+        "Python",
+        "SQL",
+        "RAG"
+      ],
+      "steps": [
+        {
+          "en": "Helped translate requirements for annual and sustainability reports into document parsing and indicator extraction workflows.",
+          "zh": "围绕年报与可持续发展报告的解析需求，协助设计指标抽取流程。"
+        },
+        {
+          "en": "Cleaned, processed and validated multi-source financial data for a bank risk early-warning model.",
+          "zh": "清洗、加工并验证多源金融数据，为银行风险预警模型建设指标数据。"
+        },
+        {
+          "en": "Participated in annotation, prompt iteration and model evaluation to improve retrieval and structured outputs.",
+          "zh": "参与数据标注、提示词迭代与模型评估，改进检索与结构化输出。"
+        }
+      ],
+      "context": {
+        "en": "Deloitte · Professional experience · 2026",
+        "zh": "德勤 · 职业实践 · 2026"
+      },
+      "visual": "pipeline"
+    },
+    {
+      "id": "sino",
+      "kind": "experience",
+      "category": "AUTOMATION / QUANTITATIVE RESEARCH",
+      "title": {
+        "en": "A better flow for financial data",
+        "zh": "让金融数据高效流动"
+      },
+      "summary": {
+        "en": "Built automated data workflows covering 9,000+ listed companies, integrated A-share and Hong Kong market data, and supported factor analysis and index methodology research.",
+        "zh": "搭建覆盖 9,000+ 家上市公司的自动化数据流程，整合 A 股与港股多源数据，参与因子分析与策略指数规则研究。"
+      },
+      "tags": [
+        "Python",
+        "SQL",
+        "Factor analysis"
+      ],
+      "steps": [
+        {
+          "en": "Cleaned and integrated multi-source market and non-financial data with Python and SQL; implemented three data improvement proposals.",
+          "zh": "使用 Python 与 SQL 清洗整合市场及非财务数据，提出并落地三项数据优化方案。"
+        },
+        {
+          "en": "Automated batch data updates and communication workflows covering more than 9,000 listed companies.",
+          "zh": "搭建自动化批量更新与沟通流程，覆盖 9,000+ 家上市公司。"
+        },
+        {
+          "en": "Supported index rule optimization and multidimensional factor analysis; contributed to an index with approximately 1.5% excess return, as reported in my experience record.",
+          "zh": "参与指数规则优化与多维因子分析，支持某指数实现约 1.5% 超额收益（据个人经历记录）。"
+        }
+      ],
+      "context": {
+        "en": "Sino-Securities Index · Professional experience · 2025",
+        "zh": "华证指数 · 职业实践 · 2025"
+      },
+      "visual": "grid"
+    },
+    {
+      "id": "reviews",
+      "kind": "research",
+      "category": "NLP / PRODUCT ANALYTICS",
+      "title": {
+        "en": "Listening at scale",
+        "zh": "从海量反馈中找到重点"
+      },
+      "summary": {
+        "en": "Used Amazon Reviews ’23 to identify product pain points with topic modeling and sentiment analysis, then designed a priority score to turn feedback into an iteration roadmap.",
+        "zh": "基于 Amazon Reviews ’23，通过主题建模与情感分析识别产品痛点，设计优先级评分，将反馈转化为产品迭代建议。"
+      },
+      "tags": [
+        "LDA",
+        "Sentiment analysis",
+        "PPPS"
+      ],
+      "context": {
+        "en": "Academic project · April 2026",
+        "zh": "课程研究 · 2026 年 4 月"
+      },
+      "steps": [
+        {
+          "en": "Identify recurring themes with LDA and quantify negative sentiment across reviews.",
+          "zh": "通过 LDA 识别反复出现的主题，并量化评论中的负面情绪。"
+        },
+        {
+          "en": "Design PPPS using frequency, negative sentiment, rating impact and helpful votes.",
+          "zh": "基于频率、负面情绪、评分影响与 helpful votes 设计 PPPS 优先级模型。"
+        },
+        {
+          "en": "Compare customer feedback with product metadata to identify gaps between positioning and experience.",
+          "zh": "对照用户反馈与产品元数据，识别宣传卖点和真实体验之间的差距。"
+        }
+      ],
+      "visual": "bars"
+    },
+    {
+      "id": "faers",
+      "kind": "research",
+      "category": "BIG DATA / RISK ANALYTICS",
+      "title": {
+        "en": "Finding signals in real-world data",
+        "zh": "在真实世界数据中识别风险"
+      },
+      "summary": {
+        "en": "Processed million-scale FAERS records with PySpark and HDFS to explore adverse-event patterns, population differences and monitoring priorities.",
+        "zh": "使用 PySpark 与 HDFS 处理百万级 FAERS 记录，探索不良反应模式、人群差异与监测优先级。"
+      },
+      "tags": [
+        "PySpark",
+        "HDFS",
+        "Risk Ratio"
+      ],
+      "context": {
+        "en": "Academic project · December 2025",
+        "zh": "课程研究 · 2025 年 12 月"
+      },
+      "steps": [
+        {
+          "en": "Clean and structure large-scale FAERS records in a distributed data pipeline.",
+          "zh": "通过分布式数据流程清洗并结构化处理 FAERS 记录。"
+        },
+        {
+          "en": "Stratify by age and event severity and compare drug-ingredient / outcome combinations using risk ratios.",
+          "zh": "按年龄与事件严重程度分层，使用风险比比较药物成分与结果组合。"
+        },
+        {
+          "en": "Communicate exploratory findings through Python visualizations. Reporting associations do not establish causation or clinical guidance.",
+          "zh": "以 Python 可视化传达探索性发现；报告关联不代表因果关系或临床建议。"
+        }
+      ],
+      "visual": "matrix"
+    },
+    {
+      "id": "undp",
+      "kind": "experience",
+      "category": "DUE DILIGENCE / PROJECT FINANCE",
+      "title": {
+        "en": "Risk judgment beyond the spreadsheet",
+        "zh": "走出表格的风险判断"
+      },
+      "summary": {
+        "en": "Combined partner due diligence, budget monitoring and cross-sector coordination to support local development projects.",
+        "zh": "结合合作方尽职调查、预算监控与跨部门协调，支持当地发展项目。"
+      },
+      "tags": [
+        "Due diligence",
+        "Risk",
+        "Coordination"
+      ],
+      "context": {
+        "en": "UNDP South Africa · Professional experience · 2023–24",
+        "zh": "UNDP 南非 · 职业实践 · 2023–24"
+      },
+      "steps": [
+        {
+          "en": "Conducted due diligence on four local partner organizations, covering AML, CTF, financial health and sustainability risks.",
+          "zh": "对四家本地合作机构开展尽职调查，覆盖反洗钱、反恐融资、财务健康与可持续发展风险。"
+        },
+        {
+          "en": "Supported three projects; identified a roughly 20% cost overrun through budget and resource analysis and helped implement procurement improvements.",
+          "zh": "参与三个驻地项目，通过预算与资源分析识别约 20% 成本超支，并推动采购优化等措施。"
+        },
+        {
+          "en": "Coordinated clean-energy and small-business projects using industry research, financial estimates and feasibility assessment.",
+          "zh": "通过行业研究、财务测算与可行性评估，协调清洁能源及中小微企业项目。"
+        }
+      ],
+      "visual": "circles"
+    },
+    {
+      "id": "worldbank",
+      "kind": "research",
+      "category": "VISUALIZATION / PUBLIC DATA",
+      "title": {
+        "en": "A wider view of development",
+        "zh": "从数据看见发展的不同侧面"
+      },
+      "summary": {
+        "en": "Built an interactive Tableau dashboard using World Bank public data to explore national indicators, regional differences and development trends.",
+        "zh": "基于世界银行公开数据制作 Tableau 交互式仪表盘，探索国家指标、地区差异与发展趋势。"
+      },
+      "tags": [
+        "Tableau",
+        "Public data"
+      ],
+      "context": {
+        "en": "Independent data project · December 2025 – January 2026",
+        "zh": "数据实践 · 2025 年 12 月—2026 年 1 月"
+      },
+      "steps": [
+        {
+          "en": "Integrate public environmental, social and governance indicators.",
+          "zh": "整合公开环境、社会与治理指标。"
+        },
+        {
+          "en": "Use linked filters and views to explore regional differences and indicator trends.",
+          "zh": "通过联动视图与筛选探索地区差异和指标趋势。"
+        }
+      ],
+      "url": "https://public.tableau.com/views/ESGPerformanceDashboard_WorldBankESGdata/Dashboard1",
+      "visual": "lines"
+    }
+  ]
+}
