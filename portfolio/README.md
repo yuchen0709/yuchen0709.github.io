@@ -22,7 +22,9 @@ Open http://127.0.0.1:4173/ or /zh/. Use an HTTP server rather than opening HTML
 - verify.mjs: verifies local assets, page links and experience anchors.
 
 ## Release
-The legacy Jekyll website remains intact at the repository root; the redesigned source lives in portfolio/. The PR workflow builds this folder and uploads a preview artifact, without deploying. To replace the public website after review: merge, set Settings → Pages → Source to GitHub Actions, and manually run Deploy portfolio from master. Only portfolio/dist is deployed. Keep the old source for rollback. Restore the previous Pages source/deployment to roll back.
+The live website is published from master / repository root using the existing GitHub Pages branch deployment. Generated files from portfolio/dist are checked in at the repository root, with .nojekyll to bypass the legacy Jekyll build. Legacy template source remains in Git history and in its original directories for rollback.
+
+To update: edit portfolio source, run node build.mjs and node verify.mjs, then copy the contents of portfolio/dist to the repository root and commit both source and generated changes. Keep .nojekyll. The optional manual Actions deployment workflow remains available if the Pages source is later switched to GitHub Actions.
 
 This implementation uses a dependency-free static generator with custom CSS, rather than the proposed Astro/Tailwind stack. It supports the current content and browser-local interactions with a minimal build. A future Astro migration can reuse the content data and visual assets. Future tools requiring private keys or a backend should be hosted separately and linked from Lab.
 
